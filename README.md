@@ -1,4 +1,4 @@
-![logo](https://github.com/Sai-Developer-1405/Sai-Developer-1405/blob/main/BANNER.gif)
+![logo](https://github.com/Sai-Developer-1405/Sai-Developer-1405/blob/main/BANNER.jpg)
 <h1 align="center">Hi 👋, I'm Sai Srinivas Patibandla</h1>
 <h3 align="center">A tech-savvy innovator from India, exploring the intersection of web development, AI, and ML. 🚀</h3>
 
