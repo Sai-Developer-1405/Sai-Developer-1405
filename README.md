@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-developer-1405&label=Profile%20views&color=0e75b6&style=flat" alt="sai-developer-1405" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-developer-1405" alt="sai-developer-1405" /></a> </p>
-
 - 🔭 I’m currently working on [Securing Organ Donation System Using Blockchain](https://github.com/Sai-Developer-1405/SECURING_ORGAN_DONATION_SYSTEM_USING_BLOCKCHAIN_TECHNOLOGY)
 
 - 🌱 I’m currently learning **React,MongoDB**
