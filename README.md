@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Srinivas Patibandla</h1>
 <h3 align="center">A tech-savvy innovator from India, exploring the intersection of web development, AI, and ML. 🚀</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-developer-1405&label=Profile%20views&color=0e75b6&style=flat" alt="sai-developer-1405" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-developer-1405" alt="sai-developer-1405" /></a> </p>
