@@ -17,12 +17,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: snake.svg
 
       - name: Commit and Push Snake Game
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add dist/snake.svg
+          git add snake.svg
           git commit -m "Updated Snake Game Animation" || echo "No changes to commit"
           git push
