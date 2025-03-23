@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects and skills related repos are available at [Sai-Developer-1405](https://github.com/Sai-Developer-1405/Sai-Developer-1405)
 
-- 💬 Ask me about **Python,Java,HTML,CSS,JavaScript,SQL,Artificial Intelligence,Machine Learning,Blockchain Technology,Cybersecurity**
+- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript, SQL, Artificial Intelligence, Machine Learning, Blockchain Technology, Cybersecurity**
 
 - 📫 How to reach me **ping2sai@gmail.com**
 
