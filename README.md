@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sai-Developer-1405/Sai-Developer-1405](https://github.com/Sai-Developer-1405/Sai-Developer-1405)
+- 👨‍💻 All of my projects are available at [Sai-Developer-1405](https://github.com/Sai-Developer-1405/Sai-Developer-1405)
 
 - 💬 Ask me about **Python,Java,HTML,CSS,JavaScript,Artificial Intelligence,Machine Learning, Blockchain Technology**
 
