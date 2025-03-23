@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ping2sai@gmail.com**
 
-- 📄 Know about my experiences [MY_RESUME](https://drive.google.com/drive/folders/18x4bOe5AvtYn4QhtaV53GwTl_QHYwWId?usp=drive_link)
+- 📄 Know about my experiences [MY_RESUME](https://drive.google.com/file/d/137G1r1DlLYj1c-MPp6qWDQQ_fj5c0Umg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
