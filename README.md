@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-developer-1405&label=Profile%20views&color=0e75b6&style=flat" alt="sai-developer-1405" /> </p>
 
-- 🔭 I’m currently working on [Securing Organ Donation System Using Blockchain](https://github.com/Sai-Developer-1405/SECURING_ORGAN_DONATION_SYSTEM_USING_BLOCKCHAIN_TECHNOLOGY)
+- 🔭 I completed the project [Securing Organ Donation System Using Blockchain](https://github.com/Sai-Developer-1405/Blockchain-Based-Framework-for-Organ-Donation-System)
 
 - 🌱 I’m currently learning **React,MongoDB**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ping2sai@gmail.com**
 
-- 📄 Know about my professioanl experiences [MY_RESUME](https://drive.google.com/file/d/137G1r1DlLYj1c-MPp6qWDQQ_fj5c0Umg/view?usp=sharing)
+- 📄 Know about my professioanl experiences [MY_RESUME](https://drive.google.com/file/d/1CP6XXtJY5CQlIkEqmShrdMTZgCnXdHzW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
