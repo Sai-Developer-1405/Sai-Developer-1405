@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, Java, HTML, CSS, JavaScript, SQL, Artificial Intelligence, Machine Learning, Blockchain Technology, Cybersecurity**
 
-- 📫 How to reach me **ping2sai@gmail.com**
+- 📫 How to reach me **ping2saas145@gmail.com**
 
 - 📄 Know about my professional experiences [MY_RESUME](https://drive.google.com/file/d/1jPSrVb4Vl19cUsu4AcbKDXMDQrcyJ5b7/view?usp=sharing)
 
