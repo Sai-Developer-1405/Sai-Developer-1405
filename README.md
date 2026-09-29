@@ -2,25 +2,20 @@
 
 <h1>⚡ SAI SRINIVAS PATIBANDLA ⚡</h1>
 
-<img src="./assets/name-scroller.gif" width="92%" alt="Animated SAI SRINIVAS PATIBANDLA technology banner"/>
+<img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/name-scroller.gif" width="96%" alt="Animated SAI SRINIVAS PATIBANDLA technology banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=850&color=36BCF7&center=true&vCenter=true&width=820&height=42&lines=Aspiring+Software+Developer;Full-Stack+%7C+Backend+%7C+AI%2FML;Building+real+projects+across+modern+stacks" alt="Animated role introduction"/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/sai-srinivas39847a4b" title="LinkedIn"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/Sai-Developer-1405" title="GitHub"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="30" alt="GitHub"/></a>
-&nbsp;&nbsp;
-<a href="mailto:ping2saas145@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Gmail"/></a>
-&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/saideveloper145" title="GeeksforGeeks"><img src="https://img.shields.io/badge/-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" height="30" alt="GeeksforGeeks"/></a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/CodeKing666/" title="LeetCode"><img src="https://img.shields.io/badge/-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="30" alt="LeetCode"/></a>
-&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/saidev15" title="HackerRank"><img src="https://img.shields.io/badge/-00EA64?style=flat-square&logo=hackerrank&logoColor=white" height="30" alt="HackerRank"/></a>
-
 <br/><br/>
+
+<a href="https://www.linkedin.com/in/sai-srinivas39847a4b" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sai-Developer-1405" title="GitHub"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="42" height="42" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:ping2saas145@gmail.com" title="Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/saideveloper145" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="42" height="42" alt="GeeksforGeeks"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/CodeKing666/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" height="42" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/saidev15" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="42" height="42" alt="HackerRank"/></a>
+
+<br/>
 
 <sub><b>Full-Stack Developer</b> · <b>Backend Engineer</b> · <b>AI/ML Builder</b> · Hyderabad, Telangana</sub>
 
@@ -28,50 +23,21 @@
 
 ---
 
-## ✦ Profile Snapshot
-
-<table>
-<tr>
-<td width="25%" align="center">
-  <b>🎯 FOCUS</b><br/>
-  Full-Stack · Backend<br/>
-  <sub>Software Development</sub>
-</td>
-<td width="25%" align="center">
-  <b>⚙️ CORE STACK</b><br/>
-  C#/.NET · Java/Spring<br/>
-  <sub>Python · Web APIs</sub>
-</td>
-<td width="25%" align="center">
-  <b>🧠 AI / ML</b><br/>
-  LLMs · RAG · ML<br/>
-  <sub>Applied AI & Data</sub>
-</td>
-<td width="25%" align="center">
-  <b>📜 CERTIFIED</b><br/>
-  10 credentials<br/>
-  <sub>2025–2026</sub>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <sub>Hyderabad, Telangana · <a href="mailto:ping2saas145@gmail.com">ping2saas145@gmail.com</a></sub>
-</p>
-
 ---
 
 # 📊 Live GitHub Dashboard
 
+<p align="center">
+  <sub><b>Auto-refreshing GitHub telemetry</b> · contributions · activity · daily signal</sub>
+</p>
+
 <table>
 <tr>
-<td width="62%" align="center" valign="middle">
-  <img src="https://ghstats.dev/api/card?username=Sai-Developer-1405&theme=midnight&size=compact&hide=followers&show_ring=true" width="100%" alt="Live GitHub profile statistics"/>
+<td width="68%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/github-stats.svg" width="100%" alt="Live GitHub statistics"/>
 </td>
-<td width="38%" align="center" valign="middle">
-  <a href="https://github.com/in-c0/daily-badge"><img src="./assets/daily-signal.svg" width="100%" alt="Daily developer signal"/></a>
-  <br/><br/>
-  <sub><a href="https://github.com/rowkav09/GitHub-profile-stats">GitHub Profile Stats</a> · <a href="https://github.com/in-c0/daily-badge">Daily Badge</a></sub>
+<td width="32%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/daily-signal.svg" width="100%" alt="Daily developer signal"/>
 </td>
 </tr>
 </table>
@@ -79,7 +45,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./assets/snake.svg" width="100%" alt="Animated GitHub contribution snake board"/>
+  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/snake.svg" width="100%" alt="Animated GitHub contribution snake board"/>
 </p>
 
 ### 🕯️ Contribution Candles
@@ -87,23 +53,21 @@
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="./assets/chart-year.svg" width="100%" alt="52-week GitHub contribution candlestick chart"/>
+  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/chart-year.svg" width="100%" alt="52-week GitHub contribution candlestick chart"/>
 </td>
 <td width="50%" align="center">
-  <img src="./assets/chart-month.svg" width="100%" alt="Current-month GitHub contribution candlestick chart"/>
+  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/chart-month.svg" width="100%" alt="Current-month GitHub contribution candlestick chart"/>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>Live dashboard assets refresh automatically through GitHub Actions.</sub></p>
+<p align="center"><sub>Updated automatically every 12 hours through GitHub Actions · no README editing required.</sub></p>
 
 <p align="center"><sub><a href="https://github.com/dahan8473/snake-and-commits">Snake and Commits</a> · <a href="https://github.com/rowkav09/GitHub-profile-stats">GitHub Profile Stats</a> · <a href="https://github.com/starlash7/github-candles">github-candles</a> · <a href="https://github.com/in-c0/daily-badge">Daily Badge</a></sub></p>
 
 ---
 
 # 🧰 Tech Stack
-
-> Visual technologies show the **exact tech name directly underneath the icon**.
 
 ## 01 · Languages
 
