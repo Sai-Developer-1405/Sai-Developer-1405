@@ -332,7 +332,7 @@ A decentralized organ-donation management concept focused on transparency, tampe
 |---|---|---|:---:|
 | Jan 2025 | **MePro English Level 10** | Pearson | [↗](https://drive.google.com/file/d/1T6edPMKGaAsURvBM52jfrmqaegtfusX5/view?pli=1) |
 | Jul 2025 | **Java SE 8 Programmer** | Oracle | [↗](https://drive.google.com/file/d/1TPsfOWFkHBoFEs20OBQcqjOcWShMhbry/view) |
-| Oct 2025 | **Full Stack Web Development** | GeeksforGeeks | [↗](https://www.geeksforgeeks.org/certificate/a5b0cda7a933d969f2b490fa6a42c176?utm_source=socials&utm_medium=cc_link) |
+| Oct 2025 | **Full Stack Web Development** | GeeksforGeeks | [↗](https://media.geeksforgeeks.org/courses/certificates/a5b0cda7a933d969f2b490fa6a42c176.pdf) |
 | Nov 2025 | **Azure Administrator Associate** | Microsoft | [↗](https://learn.microsoft.com/en-gb/users/saisrinivaspatibandla-1229/credentials/465217f8f9193e01) |
 | Nov 2025 | **Generative AI Fundamentals** | Databricks | [↗](https://drive.google.com/file/d/1fXd9O1a7ZyfqA6HNQHRddZfnHjeOy9-X/view) |
 | Nov 2025 | **Azure AI Engineer Associate** | Microsoft | [↗](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/renew/) |
