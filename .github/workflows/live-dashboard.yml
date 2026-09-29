@@ -1,0 +1,61 @@
+name: live github dashboard
+
+concurrency:
+  group: live-github-dashboard
+  cancel-in-progress: false
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/**"
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate live stats and daily signal
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python generate_dashboard.py
+
+      - name: Generate contribution snake
+        uses: dahan8473/snake-and-commits@v1
+        with:
+          github_user: ${{ github.repository_owner }}
+          output: assets/snake.svg
+          theme: green
+          frame: true
+          counter: true
+
+      - name: Generate contribution candles
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          MODE=year OUT=assets/chart-year.svg python generate_chart.py
+          MODE=month OUT=assets/chart-month.svg python generate_chart.py
+
+      - name: Commit refreshed dashboard assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/daily-signal.svg assets/snake.svg assets/chart-year.svg assets/chart-month.svg
+          git diff --cached --quiet || git commit -m "chore: refresh live github dashboard [skip ci]"
+          git push
