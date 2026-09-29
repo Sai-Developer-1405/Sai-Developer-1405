@@ -1,84 +1,76 @@
-<!--
-  Sai Srinivas Patibandla | GitHub Profile README
-  Recruiter-first profile: proof of work over keyword stuffing.
--->
+<!-- Visual recruiter-first GitHub profile for Sai Srinivas Patibandla -->
 
 <div align="center">
 
-# Sai Srinivas Patibandla
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Sai%20Srinivas%20Patibandla&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=58&descSize=17" alt="Sai Srinivas Patibandla header"/>
 
-### Software Developer • Full-Stack & Backend • AI/ML Explorer
+<br/>
 
-**I build software across stacks, learn by shipping, and like turning real-world problems into working systems.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Build+%E2%86%92+Debug+%E2%86%92+Refactor+%E2%86%92+Ship;Backend+%7C+Full-Stack+%7C+AI%2FML+%7C+Emerging+Tech;Fresher+Developer+who+learns+by+building" alt="Animated introduction"/>
 
-<p>
-  <a href="https://github.com/Sai-Developer-1405">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-  <a href="mailto:ping2saas145@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://github.com/Sai-Developer-1405">
+  <img src="https://komarev.com/ghpvc/?username=Sai-Developer-1405&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+&nbsp;
+<a href="https://github.com/Sai-Developer-1405?tab=followers">
+  <img src="https://img.shields.io/github/followers/Sai-Developer-1405?style=flat-square&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 A little about me
+## ⚡ The 10-second version
 
-I’m a **fresher software developer** building projects across **backend development, full-stack applications, AI/ML, databases, and emerging technologies**.
+> **I’m a fresher software developer who learns by building.**
+>
+> My projects span **backend APIs, full-stack applications, AI/ML, databases, testing, DevOps and emerging technologies**.
 
-I don’t want my profile to say *“I know 25 technologies.”*  
-I want my repositories to show **what I can build with them**.
+I’m not trying to look like I know everything. I’m building a track record that shows I can **understand a problem, learn a stack, build a solution, debug it, document it and keep improving it**.
 
-### My working map
+---
 
-| 🧩 Area | 🛠️ Technologies I’ve used |
+## 🧭 My developer map
+
+| 🧩 Area | What I build | Technologies |
+|---|---|---|
+| ⚙️ **Backend** | APIs, business logic, authentication | C#, ASP.NET Core, Java, Spring Boot |
+| 🖥️ **Full-Stack** | End-to-end web applications | React, JSP, HTML, CSS, Bootstrap |
+| 🤖 **AI / ML** | AI integrations & anomaly detection | Python, OpenAI, TensorFlow, Keras, Scikit-learn |
+| 🗄️ **Data** | Relational data & ORM-backed apps | SQL Server, MySQL, H2, EF Core, JPA/Hibernate |
+| 🧪 **Engineering** | Testing, documentation & delivery | xUnit, OpenAPI, Git, GitHub Actions, Docker |
+| ⛓️ **Emerging Tech** | Decentralized systems & Web3 | Solidity, Ethereum, Web3.js, IPFS |
+
+---
+
+# 🏗️ Built, not just listed
+
+| Project | What it shows |
 |---|---|
-| **Languages** | C#, Java, Python, JavaScript |
-| **Backend** | ASP.NET Core, Spring Boot, REST APIs |
-| **Frontend** | React, HTML, CSS, Bootstrap, JSP |
-| **Data** | SQL Server, MySQL, H2, EF Core, JPA/Hibernate |
-| **AI / ML** | OpenAI integrations, TensorFlow, Keras, Scikit-learn, Pandas |
-| **Engineering** | Git, GitHub Actions, Docker, xUnit, OpenAPI |
-| **Other** | Blockchain, Solidity, Web3, IPFS |
+| 🏥 **Care-Mind AI Healthcare Platform** | Modern API engineering + AI + auth + testing + Docker + CI |
+| 🚗 **Automotive Anomaly Detection** | AI/ML + cybersecurity + Python |
+| 🎓 **Student Management System** | C# + .NET Framework + desktop development + MySQL |
+| 🎬 **Digital Movie Ticket Portal** | Java + Spring Boot + React + JPA |
+| 🎓 **EduPortfolio Vision Hub** | Java + Spring Security + MySQL + full-stack workflows |
+| ⛓️ **Blockchain Donation Framework** | Solidity + Web3 + decentralized storage |
 
 ---
 
-# 🔎 What my GitHub says about me
+# ⭐ Featured work
 
-### I like projects with a real problem behind them.
-
-**🏥 Build a healthcare platform**  
-API architecture, authentication, databases, testing, Docker, CI/CD and AI integration.
-
-**🚗 Explore vehicle cybersecurity**  
-Machine-learning based anomaly and intrusion detection for CAN-bus communication.
-
-**🎬 Build a booking workflow**  
-Movies, theatres, shows, seats, business rules and full-stack integration.
-
-**🎓 Build management & portfolio systems**  
-Role-based workflows, CRUD operations, authentication and relational data.
-
-**⛓️ Explore decentralized systems**  
-Smart contracts, blockchain workflows and decentralized storage.
-
----
-
-# ⭐ Projects worth opening first
-
-## 01 · Care-Mind AI Healthcare Platform
+## 🏥 Care-Mind AI Healthcare Platform
 
 **ASP.NET Core · C# · EF Core · SQL Server · JWT · OpenAI · xUnit · Docker · GitHub Actions**
 
-A portfolio-grade healthcare management API designed as a modern backend system.
+A portfolio-grade healthcare management API focused on modern backend practices.
 
-**What it demonstrates**
+**Signals for a recruiter**
 
-API design · authentication · role-based authorization · EF Core · async/await · DTOs · exception handling · testing · Docker · CI/CD · AI integration
+`REST APIs` `authentication` `authorization` `EF Core` `async/await` `DTOs` `exception handling` `testing` `Docker` `CI/CD` `AI integration`
 
-**Notable features**
+**Highlights**
 - Patient, doctor and appointment workflows
 - Medical records and medication management
 - JWT authentication and role-based authorization
@@ -86,213 +78,192 @@ API design · authentication · role-based authorization · EF Core · async/awa
 - AI-generated visit-preparation summaries
 - Global exception handling and health checks
 - EF Core migrations and seed data
-- Unit/API tests
-- GitHub Actions CI
+- Unit/API tests and GitHub Actions CI
 
-→ **[Explore Care-Mind](https://github.com/Sai-Developer-1405/CARE-MIND-AI-HEALTHCARE-PLATFORM)**
+🔗 **[Open repository →](https://github.com/Sai-Developer-1405/CARE-MIND-AI-HEALTHCARE-PLATFORM)**
 
 ---
 
-## 02 · Automotive Anomaly Detection System
+## 🚗 Automotive Anomaly Detection System
 
 **Python · TensorFlow · Keras · Scikit-learn · Pandas · CAN Bus · SVM**
 
-An AI/ML cybersecurity project focused on detecting anomalous and potentially malicious behavior in intra-vehicle CAN-bus communication.
+An AI/ML cybersecurity project exploring anomaly and intrusion detection for intra-vehicle CAN-bus communication.
 
-**What it demonstrates**
+**Signals for a recruiter**
 
-Python · machine learning · data preprocessing · anomaly detection · cybersecurity · model experimentation · real-time monitoring
+`Python` `machine learning` `data preprocessing` `anomaly detection` `cybersecurity` `model experimentation`
 
-**Why it is interesting**
-- Tackles a domain-specific engineering problem
-- Combines ML with cybersecurity
-- Explores optimized SVM-based detection
-- Includes an architecture spanning preprocessing, detection and mitigation
+🔗 **[Open repository →](https://github.com/Sai-Developer-1405/AUTOMOTIVE-ANOMALY-DETECTION-SYSTEM)**
 
-→ **[Explore Automotive Anomaly Detection](https://github.com/Sai-Developer-1405/AUTOMOTIVE-ANOMALY-DETECTION-SYSTEM)**
-
-> Performance figures in the project README are kept out of this profile summary so the headline remains focused on the engineering work rather than unverified benchmarks.
+> I keep experimental benchmark claims out of the profile headline so the emphasis stays on the engineering work.
 
 ---
 
-## 03 · Student Management System
+## 🎓 Student Management System
 
 **C# · .NET Framework · WinForms · MySQL**
 
 A desktop application for managing students, courses and academic performance.
 
-**What it demonstrates**
+**Signals for a recruiter**
 
-C# · .NET · desktop application development · CRUD workflows · database integration
+`C#` `.NET` `desktop development` `CRUD` `database integration`
 
-→ **[Explore Student Management System](https://github.com/Sai-Developer-1405/STUDENT_MANAGEMENT_SYSTEM)**
+🔗 **[Open repository →](https://github.com/Sai-Developer-1405/STUDENT_MANAGEMENT_SYSTEM)**
 
 ---
 
-## 04 · Digital Movie Ticket Portal
+## 🎬 Digital Movie Ticket Portal
 
 **Java · Spring Boot · React · Spring Data JPA · H2/MySQL**
 
-A full-stack booking application covering movie, theatre, show and seat workflows.
+A full-stack booking application with movie, theatre, show and seat workflows.
 
-**What it demonstrates**
+**Signals for a recruiter**
 
-REST APIs · service/repository architecture · JPA · React · business validation · relational data
+`REST APIs` `service/repository architecture` `JPA` `React` `business validation` `relational data`
 
-→ **[Explore Digital Movie Ticket Portal](https://github.com/Sai-Developer-1405/DIGITAL-MOVIE-TICKET-PORTAL)**
+🔗 **[Open repository →](https://github.com/Sai-Developer-1405/DIGITAL-MOVIE-TICKET-PORTAL)**
 
 ---
 
-## 05 · EduPortfolio Vision Hub
+## 🎓 EduPortfolio Vision Hub
 
 **Java · Spring Boot · MySQL · JSP · React · Spring Security · Hibernate**
 
 A role-based platform for students, teachers and institutions to manage projects, portfolios, milestones and feedback.
 
-**What it demonstrates**
+**Signals for a recruiter**
 
-full-stack development · authentication/authorization · Spring Boot · MySQL · Hibernate · role-based workflows
+`full-stack` `authentication` `authorization` `Spring Boot` `MySQL` `Hibernate`
 
-→ **[Explore EduPortfolio](https://github.com/Sai-Developer-1405/EDUPORTFOLIO-VISION-HUB)**
+🔗 **[Open repository →](https://github.com/Sai-Developer-1405/EDUPORTFOLIO-VISION-HUB)**
 
 ---
 
-## 06 · Blockchain Donation Framework
+## ⛓️ Blockchain Donation Framework
 
 **Ethereum · Solidity · Node.js · Express · Web3.js · IPFS**
 
 A decentralized application exploring secure, transparent and tamper-resistant workflow design.
 
-**What it demonstrates**
+**Signals for a recruiter**
 
-smart contracts · Web3 · decentralized storage · blockchain architecture
+`smart contracts` `Web3` `decentralized storage` `blockchain architecture`
 
-→ **[Explore Blockchain Project](https://github.com/Sai-Developer-1405/BLOCKCHAIN-DONATION-FRAMEWORK)**
-
----
-
-# 🧠 How I learn
-
-I learn technologies by moving through a simple loop:
-
-**Understand → Build → Break → Debug → Refactor → Document → Repeat**
-
-That means my repositories may cover different stacks, but the underlying goal stays the same:
-
-**learn the engineering concept, then prove it with code.**
+🔗 **[Open repository →](https://github.com/Sai-Developer-1405/BLOCKCHAIN-DONATION-FRAMEWORK)**
 
 ---
 
-# 🧪 Engineering themes across my projects
+# 🧠 My build loop
 
-| Theme | Evidence in my repositories |
-|---|---|
-| **API development** | ASP.NET Core Web API, Spring Boot REST |
-| **Authentication** | JWT, Spring Security, role-based access |
-| **Databases** | SQL Server, MySQL, H2 |
-| **ORMs** | Entity Framework Core, JPA/Hibernate |
-| **Testing** | xUnit, API/unit-test workflows |
-| **DevOps** | Docker Compose, GitHub Actions |
-| **AI** | OpenAI API integration, ML anomaly detection |
-| **Architecture** | Layered APIs, service/repository patterns |
-| **Security** | JWT/roles, AI safeguards, automotive intrusion detection |
-| **Emerging tech** | Blockchain, smart contracts, Web3, IPFS |
+<div align="center">
+
+**UNDERSTAND**  
+↓  
+**DESIGN**  
+↓  
+**BUILD**  
+↓  
+**BREAK**  
+↓  
+**DEBUG**  
+↓  
+**REFACTOR**  
+↓  
+**DOCUMENT**  
+↓  
+**SHIP**
+
+</div>
+
+I learn fastest when the concept becomes a working system.
 
 ---
 
-# 📚 Currently sharpening
+# 🔬 Engineering themes
 
-Software Engineering     ████████████████████  
-Backend Development      ███████████████████░  
-Full-Stack Development   ██████████████████░░  
-AI / ML Applications     ████████████████░░░░  
-Databases & APIs         ███████████████████░  
-Testing & Clean Code     █████████████████░░░  
-Docker & CI/CD           ███████████████░░░░░  
+<p align="center">
+
+<img src="https://img.shields.io/badge/API%20Design-02569B?style=for-the-badge" alt="API Design"/>
+<img src="https://img.shields.io/badge/Authentication-6A1B9A?style=for-the-badge" alt="Authentication"/>
+<img src="https://img.shields.io/badge/Databases-2E7D32?style=for-the-badge" alt="Databases"/>
+<img src="https://img.shields.io/badge/Testing-8E24AA?style=for-the-badge" alt="Testing"/>
+<img src="https://img.shields.io/badge/Docker-1565C0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/CI%2FCD-37474F?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/Security-B71C1C?style=for-the-badge" alt="Security"/>
+
+</p>
+
+---
+
+# 🌱 What I’m sharpening now
+
+```text
+Software Engineering     ████████████████████
+Backend Development      ███████████████████░
+Full-Stack Development   ██████████████████░░
+AI / ML Applications     ████████████████░░░░
+Databases & APIs         ███████████████████░
+Testing & Clean Code     █████████████████░░░
+Docker & CI/CD           ███████████████░░░░░
 Cloud & System Design    ████████████░░░░░░░░
+```
 
 > These bars are **visual context, not proficiency scores**.
 
 ---
 
-# 💼 For recruiters & hiring teams
+# 💼 What I’m looking for
 
-I’m open to **fresher / junior software development opportunities** where I can contribute, learn quickly and grow across a real engineering team.
+I’m open to **fresher / junior software development opportunities** across stacks.
 
-### Roles I’m open to
+`Software Developer` · `Backend Developer` · `Full-Stack Developer` · `Java Developer` · `.NET Developer` · `Python Developer` · `Junior Web Developer` · `AI/ML-oriented Developer`
 
-Software Developer · Backend Developer · Full-Stack Developer · Java Developer · .NET Developer · Python Developer · Junior Web Developer · AI/ML-oriented Developer
+What matters most to me is joining a team where I can **contribute, learn unfamiliar technologies quickly, and grow through real engineering work**.
 
-I’m comfortable learning a new stack when the role requires it. My projects are intentionally spread across multiple ecosystems because I enjoy understanding **software engineering concepts beyond a single framework**.
-
-### What I’d bring
-
-- Curiosity backed by hands-on projects
-- Willingness to learn unfamiliar technologies
-- Experience building end-to-end applications
-- Comfort working with APIs and databases
-- Interest in clean architecture, testing and developer tooling
-- A habit of documenting what I build
-
-📧 **Email:** [ping2saas145@gmail.com](mailto:ping2saas145@gmail.com)
+📧 **[ping2saas145@gmail.com](mailto:ping2saas145@gmail.com)**
 
 ---
 
-# 🗺️ My project spectrum
+# 📊 GitHub at a glance
 
-```text
-                 SOFTWARE DEVELOPMENT
-                         │
-       ┌─────────────────┼─────────────────┐
-       │                 │                 │
-    BACKEND           AI / ML          FULL-STACK
-       │                 │                 │
- ASP.NET Core      Anomaly Detection   Spring Boot
- Spring Boot       AI APIs             React
- REST APIs         Python/ML           JSP
- SQL / EF Core
-       │                 │                 │
-       └─────────────────┼─────────────────┘
-                         │
-                  EMERGING TECH
-                         │
-              Blockchain · Web3 · IPFS
-```
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sai-Developer-1405&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Developer-1405&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Developer-1405&hide_border=true&theme=transparent" alt="GitHub streak"/>
+
+</div>
 
 ---
 
-# 📈 GitHub snapshot
+# 🤝 Let’s connect
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sai-Developer-1405&show_icons=true&hide_border=true&rank_icon=github&hide_title=true" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Developer-1405&layout=compact&hide_border=true&hide_title=true" alt="Top languages"/>
-
-</p>
-
----
-
-# 🤝 Let's connect
-
-<p align="center">
+<div align="center">
 
 <a href="mailto:ping2saas145@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ping2saas145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-ping2saas145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Sai-Developer-1405">
-  <img src="https://img.shields.io/badge/GitHub-Sai--Developer--1405-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Sai--Developer--1405-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### Build something useful. Learn something new. Ship it.
+### ⚡ Build. Learn. Ship. Repeat.
 
-<sub>Thanks for taking the time to explore my work.</sub>
+<sub>Thanks for exploring my work.</sub>
 
 </div>
