@@ -1,47 +1,106 @@
-<!-- Visual recruiter-first GitHub profile for Sai Srinivas Patibandla -->
+<!--
+  Sai Srinivas Patibandla | GitHub Profile README
+  Visual recruiter-first profile: animated, distinctive, evidence-led.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Sai%20Srinivas%20Patibandla&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=58&descSize=17" alt="Sai Srinivas Patibandla header"/>
+<img src="./assets/sai-profile-banner.gif" alt="Animated Sai Srinivas Patibandla profile banner" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Build+%E2%86%92+Debug+%E2%86%92+Refactor+%E2%86%92+Ship;Backend+%7C+Full-Stack+%7C+AI%2FML+%7C+Emerging+Tech;Fresher+Developer+who+learns+by+building" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=850&color=36BCF7&center=true&vCenter=true&width=850&height=55&lines=Build+%E2%86%92+Debug+%E2%86%92+Refactor+%E2%86%92+Ship;Software+Developer+%7C+Full-Stack+%7C+Backend+%7C+AI%2FML;Learning+new+technologies+by+turning+ideas+into+working+systems" alt="Animated introduction"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sai-srinivas39847a4b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Sai-Developer-1405">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:ping2saas145@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ping2saas145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/Sai-Developer-1405">
-  <img src="https://komarev.com/ghpvc/?username=Sai-Developer-1405&style=flat-square&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-&nbsp;
-<a href="https://github.com/Sai-Developer-1405?tab=followers">
-  <img src="https://img.shields.io/github/followers/Sai-Developer-1405?style=flat-square&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Sai-Developer-1405&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## ⚡ The 10-second version
+# ⚡ In one glance
 
 > **I’m a fresher software developer who learns by building.**
 >
-> My projects span **backend APIs, full-stack applications, AI/ML, databases, testing, DevOps and emerging technologies**.
+> My projects span **backend APIs, full-stack applications, AI/ML, databases, testing, DevOps, and emerging technologies**.
 
-I’m not trying to look like I know everything. I’m building a track record that shows I can **understand a problem, learn a stack, build a solution, debug it, document it and keep improving it**.
+I’m less interested in collecting technology names and more interested in proving that I can **understand a problem → learn the right tools → build → debug → document → improve**.
 
 ---
 
-## 🧭 My developer map
+# 🧭 My developer map
 
 | 🧩 Area | What I build | Technologies |
 |---|---|---|
-| ⚙️ **Backend** | APIs, business logic, authentication | C#, ASP.NET Core, Java, Spring Boot |
-| 🖥️ **Full-Stack** | End-to-end web applications | React, JSP, HTML, CSS, Bootstrap |
-| 🤖 **AI / ML** | AI integrations & anomaly detection | Python, OpenAI, TensorFlow, Keras, Scikit-learn |
-| 🗄️ **Data** | Relational data & ORM-backed apps | SQL Server, MySQL, H2, EF Core, JPA/Hibernate |
-| 🧪 **Engineering** | Testing, documentation & delivery | xUnit, OpenAPI, Git, GitHub Actions, Docker |
-| ⛓️ **Emerging Tech** | Decentralized systems & Web3 | Solidity, Ethereum, Web3.js, IPFS |
+| ⚙️ **Backend** | APIs, business logic, auth | C#, ASP.NET Core, Java, Spring Boot |
+| 🖥️ **Full-Stack** | End-to-end applications | React, JSP, HTML, CSS, Bootstrap |
+| 🤖 **AI / ML** | AI integrations, anomaly detection | Python, OpenAI, TensorFlow, Keras, Scikit-learn |
+| 🗄️ **Data** | Relational data, ORM-backed apps | SQL Server, MySQL, H2, EF Core, JPA/Hibernate |
+| 🧪 **Engineering** | Testing, docs, delivery | xUnit, OpenAPI, Git, GitHub Actions, Docker |
+| ⛓️ **Emerging Tech** | Decentralized systems | Solidity, Ethereum, Web3.js, IPFS |
+
+---
+
+# 🧰 Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,js,html,css,react,nodejs,express,bootstrap,mysql,sqlite,git,github,githubactions,docker,postman,vscode&perline=10" alt="Core technology stack icons"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,solidity,linkedin,instagram,visualstudio,hibernate&perline=8" alt="AI, blockchain and tooling icons"/>
+
+</div>
+
+<p align="center">
+  <sub>Core technologies I have used in projects, coursework or hands-on learning. The icons are intentionally focused instead of listing every tool I have touched.</sub>
+</p>
+
+---
+
+# 🌐 My professional & coding profiles
+
+### 💼 Professional
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-srinivas39847a4b">
+    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Srinivas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  </a>
+  <a href="https://github.com/Sai-Developer-1405">
+    <img src="https://img.shields.io/badge/GitHub-Sai--Developer--1405-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+  <a href="mailto:ping2saas145@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ping2saas145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+### 🧩 Coding & practice
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/saideveloper145">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-saideveloper145-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://leetcode.com/u/CodeKing666/">
+    <img src="https://img.shields.io/badge/LeetCode-CodeKing666-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/saidev15">
+    <img src="https://img.shields.io/badge/HackerRank-saidev15-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+</p>
 
 ---
 
@@ -178,7 +237,7 @@ A decentralized application exploring secure, transparent and tamper-resistant w
 
 </div>
 
-I learn fastest when the concept becomes a working system.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=750&color=22C55E&center=true&vCenter=true&width=760&height=40&lines=Understand+the+problem.;Choose+the+right+tool.;Build+the+smallest+useful+thing.;Learn+from+the+bugs.;Ship+and+repeat." alt="Animated build philosophy"/>
 
 ---
 
@@ -218,13 +277,15 @@ Cloud & System Design    ████████████░░░░░░�
 
 # 💼 What I’m looking for
 
-I’m open to **fresher / junior software development opportunities** across stacks.
+I’m open to **fresher / junior software development opportunities across stacks**.
 
 `Software Developer` · `Backend Developer` · `Full-Stack Developer` · `Java Developer` · `.NET Developer` · `Python Developer` · `Junior Web Developer` · `AI/ML-oriented Developer`
 
 What matters most to me is joining a team where I can **contribute, learn unfamiliar technologies quickly, and grow through real engineering work**.
 
-📧 **[ping2saas145@gmail.com](mailto:ping2saas145@gmail.com)**
+### 📬 Recruiter contact
+
+**Gmail:** [ping2saas145@gmail.com](mailto:ping2saas145@gmail.com)
 
 ---
 
@@ -232,13 +293,29 @@ What matters most to me is joining a team where I can **contribute, learn unfami
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sai-Developer-1405&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sai-Developer-1405&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Developer-1405&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Developer-1405&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Developer-1405&hide_border=true&theme=transparent" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sai-Developer-1405&hide_border=true&theme=transparent&disable_animations=false" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sai-Developer-1405&theme=github-compact&hide_border=true&area=true&custom_title=Sai's%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+# 📱 Beyond code
+
+<div align="center">
+
+<a href="https://www.instagram.com/mister_sai_145/">
+  <img src="https://img.shields.io/badge/Instagram-mister__sai__145-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 </div>
 
@@ -248,12 +325,14 @@ What matters most to me is joining a team where I can **contribute, learn unfami
 
 <div align="center">
 
-<a href="mailto:ping2saas145@gmail.com">
-<img src="https://img.shields.io/badge/Email-ping2saas145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://www.linkedin.com/in/sai-srinivas39847a4b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
 <a href="https://github.com/Sai-Developer-1405">
-<img src="https://img.shields.io/badge/GitHub-Sai--Developer--1405-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Sai--Developer--1405-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:ping2saas145@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ping2saas145%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
