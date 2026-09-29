@@ -2,20 +2,25 @@
 
 <img src="./assets/name-scroller.gif" width="96%" alt="Animated SAI SRINIVAS PATIBANDLA technology banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=850&color=36BCF7&center=true&vCenter=true&width=820&height=42&lines=Aspiring+Software+Developer;Full-Stack+%7C+Backend+%7C+AI%2FML;Building+real+projects+across+modern+stacks" alt="Animated role introduction"/>
+<p align="center"><strong>Building real projects across modern stacks</strong></p>
 
-<br/>
+<table align="center">
+<tr>
+<td align="center"><a href="https://www.linkedin.com/in/sai-srinivas39847a4b" title="LinkedIn"><img src="./assets/linkedin.png" width="52" height="52" alt="LinkedIn"/><br/><sub><b>LinkedIn</b></sub></a></td>
+<td width="18"></td>
+<td align="center"><a href="https://github.com/Sai-Developer-1405" title="GitHub"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="52" height="52" alt="GitHub"/><br/><sub><b>GitHub</b></sub></a></td>
+<td width="18"></td>
+<td align="center"><a href="mailto:ping2saas145@gmail.com" title="Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"/><br/><sub><b>Gmail</b></sub></a></td>
+<td width="18"></td>
+<td align="center"><a href="https://www.geeksforgeeks.org/profile/saideveloper145" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="52" height="52" alt="GeeksforGeeks"/><br/><sub><b>GeeksforGeeks</b></sub></a></td>
+<td width="18"></td>
+<td align="center"><a href="https://leetcode.com/u/CodeKing666/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode"/><br/><sub><b>LeetCode</b></sub></a></td>
+<td width="18"></td>
+<td align="center"><a href="https://www.hackerrank.com/profile/saidev15" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="52" height="52" alt="HackerRank"/><br/><sub><b>HackerRank</b></sub></a></td>
+</tr>
+</table>
 
-<a href="https://www.linkedin.com/in/sai-srinivas39847a4b" title="LinkedIn"><img src="./assets/linkedin.png" width="48" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Sai-Developer-1405" title="GitHub"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="48" height="48" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="mailto:ping2saas145@gmail.com" title="Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/saideveloper145" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48" height="48" alt="GeeksforGeeks"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/CodeKing666/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode"/></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/saidev15" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48" height="48" alt="HackerRank"/></a>
-
-<br/><br/>
-
-<sub><b>Full-Stack Developer</b> · <b>Backend Engineer</b> · <b>AI/ML Builder</b> · Hyderabad, Telangana</sub>
+<h3 align="center">Full-Stack Developer · Backend Engineer · AI/ML Builder</h3>
 
 </div>
 
