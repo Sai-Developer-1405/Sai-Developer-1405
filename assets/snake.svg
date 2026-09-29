@@ -495,8 +495,8 @@
   <rect x="679" y="132" width="11" height="11" rx="2.5" fill="#39d353"/>
   <text class="lab" x="701" y="141">more</text>
   <text class="lab" x="16" y="141">$ commits eaten:</text>
-  <text class="cnt m1" opacity="0" x="118" y="141">18/33</text>
-  <text class="cnt m2" opacity="0" x="118" y="141">27/33</text>
-  <text class="cnt m3" opacity="0" x="118" y="141">33/33</text>
+  <text class="cnt m1" opacity="0" x="118" y="141">18/34</text>
+  <text class="cnt m2" opacity="0" x="118" y="141">27/34</text>
+  <text class="cnt m3" opacity="0" x="118" y="141">34/34</text>
   <rect x="1" y="1" width="769" height="149" rx="12" fill="none" stroke="#30363d"/>
 </svg>
