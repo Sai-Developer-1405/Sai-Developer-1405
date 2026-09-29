@@ -1,21 +1,19 @@
 <div align="center">
 
-<h1>⚡ SAI SRINIVAS PATIBANDLA ⚡</h1>
-
-<img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/name-scroller.gif" width="96%" alt="Animated SAI SRINIVAS PATIBANDLA technology banner"/>
+<img src="./assets/name-scroller.gif" width="96%" alt="Animated SAI SRINIVAS PATIBANDLA technology banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=850&color=36BCF7&center=true&vCenter=true&width=820&height=42&lines=Aspiring+Software+Developer;Full-Stack+%7C+Backend+%7C+AI%2FML;Building+real+projects+across+modern+stacks" alt="Animated role introduction"/>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/sai-srinivas39847a4b" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Sai-Developer-1405" title="GitHub"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="42" height="42" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:ping2saas145@gmail.com" title="Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/saideveloper145" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="42" height="42" alt="GeeksforGeeks"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/CodeKing666/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" height="42" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/saidev15" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="42" height="42" alt="HackerRank"/></a>
-
 <br/>
+
+<a href="https://www.linkedin.com/in/sai-srinivas39847a4b" title="LinkedIn"><img src="./assets/linkedin.png" width="48" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Sai-Developer-1405" title="GitHub"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="48" height="48" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="mailto:ping2saas145@gmail.com" title="Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/saideveloper145" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="48" height="48" alt="GeeksforGeeks"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/CodeKing666/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" alt="LeetCode"/></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/saidev15" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48" height="48" alt="HackerRank"/></a>
+
+<br/><br/>
 
 <sub><b>Full-Stack Developer</b> · <b>Backend Engineer</b> · <b>AI/ML Builder</b> · Hyderabad, Telangana</sub>
 
@@ -23,21 +21,23 @@
 
 ---
 
----
-
 # 📊 Live GitHub Dashboard
 
 <p align="center">
-  <sub><b>Auto-refreshing GitHub telemetry</b> · contributions · activity · daily signal</sub>
+  <sub><b>Live stats · contribution activity · daily developer signal</b></sub>
 </p>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="68%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/github-stats.svg" width="100%" alt="Live GitHub statistics"/>
+<td width="70%" align="center" valign="middle">
+  <a href="https://github.com/rowkav09/GitHub-profile-stats">
+    <img src="https://ghstats.dev/api/card?username=Sai-Developer-1405&theme=midnight&show_icons=true&show_ring=true&hide_border=false&size=default&custom_title=Sai%20Srinivas%20Patibandla%27s%20GitHub%20Stats" width="100%" alt="Live GitHub statistics"/>
+  </a>
 </td>
-<td width="32%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/daily-signal.svg" width="100%" alt="Daily developer signal"/>
+<td width="30%" align="center" valign="middle">
+  <a href="https://github.com/in-c0/daily-badge">
+    <img src="https://badge.ava.kim/badge.svg?tz=Asia%2FKolkata&pack=dev-humor&style=flat-square" width="100%" alt="Daily developer signal"/>
+  </a>
 </td>
 </tr>
 </table>
@@ -45,23 +45,23 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/snake.svg" width="100%" alt="Animated GitHub contribution snake board"/>
+  <img src="./assets/snake.svg" width="100%" alt="Animated GitHub contribution snake board"/>
 </p>
 
 ### 🕯️ Contribution Candles
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/chart-year.svg" width="100%" alt="52-week GitHub contribution candlestick chart"/>
+  <img src="./assets/chart-year.svg" width="100%" alt="52-week GitHub contribution candlestick chart"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://raw.githubusercontent.com/Sai-Developer-1405/Sai-Developer-1405/main/assets/chart-month.svg" width="100%" alt="Current-month GitHub contribution candlestick chart"/>
+  <img src="./assets/chart-month.svg" width="100%" alt="Current-month GitHub contribution candlestick chart"/>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>Updated automatically every 12 hours through GitHub Actions · no README editing required.</sub></p>
+<p align="center"><sub>Snake and contribution charts refresh through GitHub Actions · live stats and the daily signal update automatically.</sub></p>
 
 <p align="center"><sub><a href="https://github.com/dahan8473/snake-and-commits">Snake and Commits</a> · <a href="https://github.com/rowkav09/GitHub-profile-stats">GitHub Profile Stats</a> · <a href="https://github.com/starlash7/github-candles">github-candles</a> · <a href="https://github.com/in-c0/daily-badge">Daily Badge</a></sub></p>
 
