@@ -330,16 +330,16 @@ A decentralized organ-donation management concept focused on transparency, tampe
 
 | Date | Certification | Issuer | Link |
 |---|---|---|:---:|
-| Jan 2025 | **MePro English Level 10** | Pearson | [↗](https://mepro.pearson.com/) |
-| Jul 2025 | **Java SE 8 Programmer** | Oracle | [↗](https://www.oracle.com/jp/education/certification/certification-exam-list/java-se8-programmer-i-1z0-808-exam/) |
-| Oct 2025 | **Full Stack Web Development** | GeeksforGeeks | [↗](https://www.geeksforgeeks.org/courses/full-stack-node) |
-| Nov 2025 | **Azure Administrator Associate** | Microsoft | [↗](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) |
-| Nov 2025 | **Generative AI Fundamentals** | Databricks | [↗](https://customer-academy.databricks.com/learn/courses/1765/generative-ai-fundamentals) |
+| Jan 2025 | **MePro English Level 10** | Pearson | [↗](https://drive.google.com/file/d/1T6edPMKGaAsURvBM52jfrmqaegtfusX5/view?pli=1) |
+| Jul 2025 | **Java SE 8 Programmer** | Oracle | [↗](https://drive.google.com/file/d/1TPsfOWFkHBoFEs20OBQcqjOcWShMhbry/view) |
+| Oct 2025 | **Full Stack Web Development** | GeeksforGeeks | [↗](https://www.geeksforgeeks.org/certificate/a5b0cda7a933d969f2b490fa6a42c176?utm_source=socials&utm_medium=cc_link) |
+| Nov 2025 | **Azure Administrator Associate** | Microsoft | [↗](https://learn.microsoft.com/en-gb/users/saisrinivaspatibandla-1229/credentials/465217f8f9193e01) |
+| Nov 2025 | **Generative AI Fundamentals** | Databricks | [↗](https://drive.google.com/file/d/1fXd9O1a7ZyfqA6HNQHRddZfnHjeOy9-X/view) |
 | Nov 2025 | **Azure AI Engineer Associate** | Microsoft | [↗](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/renew/) |
-| Jan 2026 | **C# Foundational Certification** | freeCodeCamp | [↗](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |
-| Aug 2026 | **SQL Associate Certification** | DataCamp | [↗](https://www.datacamp.com/certification/sql-associate) |
-| Aug 2026 | **Agentic AI Certified Foundations Associate** | Oracle | [↗](https://www.oracle.com/jp/education/certification/certifications-list/) |
-| Sep 2026 | **Applied Data Science Certification** | IBM | [↗](https://www.credly.com/org/ibm/badge/applied-data-science-specialization.1) |
+| Jan 2026 | **C# Foundational Certification** | freeCodeCamp | [↗](https://www.freecodecamp.org/certification/sai_dev_145/foundational-c-sharp-with-microsoft) |
+| Aug 2026 | **SQL Associate Certification** | DataCamp | [↗](https://drive.google.com/file/d/1PWxeX3oJtXrFCwBr9lnszmMjvNLq83kP/view) |
+| Aug 2026 | **Agentic AI Certified Foundations Associate** | Oracle | [↗](https://drive.google.com/file/d/1I0EUSD6NZMGA-NAXk6owlZeWFU806i8V/view) |
+| Sep 2026 | **Applied Data Science Certification** | IBM | [↗](https://drive.google.com/file/d/1LRf_Hsoii3V3l-JUjodrMhF-gf48M6sf/view) |
 
 <sub>Note: Microsoft states that the Azure AI Engineer Associate certification and related exam/renewal assessments were retired on June 30, 2026.</sub>
 
