@@ -91,8 +91,6 @@
 .c49_5 { animation:kc49_5 7.5s linear infinite; }
 @keyframes kc50_5 { 0.0% { fill:#161b22; } 57.283% { fill:#161b22; } 57.333% { fill:#b7ffd0; } 58.667% { fill:#8affc1; } 62.667% { fill:#39d353; } 70.667% { fill:#26a641; } 85.333% { fill:#006d32; } 100% { fill:#006d32; } }
 .c50_5 { animation:kc50_5 7.5s linear infinite; }
-@keyframes kc51_2 { 0.0% { fill:#161b22; } 62.617000000000004% { fill:#161b22; } 62.667% { fill:#b7ffd0; } 64.0% { fill:#8affc1; } 68.0% { fill:#39d353; } 76.0% { fill:#26a641; } 90.667% { fill:#006d32; } 100% { fill:#006d32; } }
-.c51_2 { animation:kc51_2 7.5s linear infinite; }
 @keyframes kc51_3 { 0.0% { fill:#161b22; } 61.283% { fill:#161b22; } 61.333% { fill:#b7ffd0; } 62.667% { fill:#8affc1; } 66.667% { fill:#39d353; } 74.667% { fill:#26a641; } 89.333% { fill:#006d32; } 100% { fill:#006d32; } }
 .c51_3 { animation:kc51_3 7.5s linear infinite; }
 @keyframes kc51_4 { 0.0% { fill:#161b22; } 59.95% { fill:#161b22; } 60.0% { fill:#b7ffd0; } 61.333% { fill:#8affc1; } 65.333% { fill:#39d353; } 73.333% { fill:#26a641; } 88.0% { fill:#006d32; } 100% { fill:#006d32; } }
@@ -101,6 +99,8 @@
 .c51_5 { animation:kc51_5 7.5s linear infinite; }
 @keyframes kc52_2 { 0.0% { fill:#39d353; } 63.95% { fill:#39d353; } 64.0% { fill:#b7ffd0; } 65.333% { fill:#8affc1; } 69.333% { fill:#39d353; } 77.333% { fill:#26a641; } 92.0% { fill:#006d32; } 100% { fill:#006d32; } }
 .c52_2 { animation:kc52_2 7.5s linear infinite; }
+@keyframes kc52_3 { 0.0% { fill:#161b22; } 62.617000000000004% { fill:#161b22; } 62.667% { fill:#b7ffd0; } 64.0% { fill:#8affc1; } 68.0% { fill:#39d353; } 76.0% { fill:#26a641; } 90.667% { fill:#006d32; } 100% { fill:#006d32; } }
+.c52_3 { animation:kc52_3 7.5s linear infinite; }
 @keyframes m1 { 0% { opacity:0; } 0.0% { opacity:1; } 54.667% { opacity:0; } 100% { opacity:0; } }
 .m1 { animation:m1 7.5s steps(1,end) infinite; }
 @keyframes m2 { 0% { opacity:0; } 54.667% { opacity:1; } 64.0% { opacity:0; } 100% { opacity:0; } }
@@ -114,7 +114,6 @@
   <rect class="c0_2" x="16" y="54" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c0_3" x="16" y="68" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c0_4" x="16" y="82" width="11" height="11" rx="2.5" fill="#161b22"/>
-  <rect class="c0_5" x="16" y="96" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_0" x="30" y="26" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_1" x="30" y="40" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c1_2" x="30" y="54" width="11" height="11" rx="2.5" fill="#161b22"/>
@@ -475,6 +474,7 @@
   <rect class="c52_0" x="744" y="26" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c52_1" x="744" y="40" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c52_2" x="744" y="54" width="11" height="11" rx="2.5" fill="#39d353"/>
+  <rect class="c52_3" x="744" y="68" width="11" height="11" rx="2.5" fill="#161b22"/>
   <text class="lab" x="30" y="14">oct</text>
   <text class="lab" x="86" y="14">nov</text>
   <text class="lab" x="156" y="14">dec</text>
