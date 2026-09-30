@@ -39,11 +39,6 @@
     <img src="https://ghstats.dev/api/card?username=Sai-Developer-1405&theme=midnight&show_icons=true&show_ring=true&hide_border=false&size=default&custom_title=Sai%20Srinivas%20Patibandla%27s%20GitHub%20Stats" width="100%" alt="Live GitHub statistics"/>
   </a>
 </td>
-<td width="30%" align="center" valign="middle">
-  <a href="https://github.com/in-c0/daily-badge">
-    <img src="https://badge.ava.kim/badge.svg?tz=Asia%2FKolkata&pack=dev-humor&style=flat-square" width="100%" alt="Daily developer signal"/>
-  </a>
-</td>
 </tr>
 </table>
 
