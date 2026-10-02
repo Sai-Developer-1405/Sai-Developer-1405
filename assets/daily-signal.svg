@@ -2,9 +2,9 @@
 <rect width="320" height="255" rx="16" fill="#0b0e11" stroke="#202832"/>
 <circle cx="28" cy="30" r="7" fill="#36bcf7"/>
 <text x="45" y="34" fill="#8b949e" font-family="ui-monospace,monospace" font-size="10" font-weight="700">DAILY DEVELOPER SIGNAL</text>
-<text x="24" y="85" fill="#eaecef" font-family="ui-sans-serif,system-ui" font-size="17" font-weight="800">LEARN</text>
-<text x="24" y="111" fill="#36bcf7" font-family="ui-sans-serif,system-ui" font-size="17" font-weight="800">BUILD · ITERATE</text>
+<text x="24" y="85" fill="#eaecef" font-family="ui-sans-serif,system-ui" font-size="17" font-weight="800">MAKE SOMETHING USEFUL</text>
+<text x="24" y="111" fill="#36bcf7" font-family="ui-sans-serif,system-ui" font-size="17" font-weight="800"></text>
 <text x="24" y="157" fill="#8b949e" font-family="ui-sans-serif,system-ui" font-size="11">A small prompt, refreshed daily.</text>
-<text x="24" y="193" fill="#eaecef" font-family="ui-monospace,monospace" font-size="11">01 OCT 2026</text>
+<text x="24" y="193" fill="#eaecef" font-family="ui-monospace,monospace" font-size="11">02 OCT 2026</text>
 <text x="24" y="214" fill="#8b949e" font-family="ui-monospace,monospace" font-size="9">ASIA/KOLKATA</text>
 </svg>
