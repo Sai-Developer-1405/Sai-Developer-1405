@@ -83,9 +83,9 @@
 .c45_5 { animation:kc45_5 7.5s linear infinite; }
 @keyframes kc46_5 { 0.0% { fill:#161b22; } 51.95% { fill:#161b22; } 52.0% { fill:#b7ffd0; } 53.333% { fill:#8affc1; } 57.333% { fill:#39d353; } 58.617000000000004% { fill:#39d353; } 58.667% { fill:#161b22; } 100% { fill:#161b22; } }
 .c46_5 { animation:kc46_5 7.5s linear infinite; }
-@keyframes kc47_5 { 0.0% { fill:#161b22; } 53.283% { fill:#161b22; } 53.333% { fill:#b7ffd0; } 54.667% { fill:#8affc1; } 58.667% { fill:#39d353; } 59.95% { fill:#39d353; } 60.0% { fill:#161b22; } 100% { fill:#161b22; } }
+@keyframes kc47_5 { 0.0% { fill:#161b22; } 53.283% { fill:#161b22; } 53.333% { fill:#b7ffd0; } 54.667% { fill:#8affc1; } 58.667% { fill:#39d353; } 61.283% { fill:#39d353; } 61.333% { fill:#161b22; } 100% { fill:#161b22; } }
 .c47_5 { animation:kc47_5 7.5s linear infinite; }
-@keyframes kc48_5 { 0.0% { fill:#39d353; } 54.617000000000004% { fill:#39d353; } 54.667% { fill:#b7ffd0; } 56.0% { fill:#8affc1; } 60.0% { fill:#39d353; } 61.283% { fill:#39d353; } 61.333% { fill:#161b22; } 100% { fill:#161b22; } }
+@keyframes kc48_5 { 0.0% { fill:#39d353; } 54.617000000000004% { fill:#39d353; } 54.667% { fill:#b7ffd0; } 56.0% { fill:#8affc1; } 60.0% { fill:#39d353; } 68.0% { fill:#26a641; } 82.667% { fill:#006d32; } 100% { fill:#006d32; } }
 .c48_5 { animation:kc48_5 7.5s linear infinite; }
 @keyframes kc49_5 { 0.0% { fill:#161b22; } 55.95% { fill:#161b22; } 56.0% { fill:#b7ffd0; } 57.333% { fill:#8affc1; } 61.333% { fill:#39d353; } 69.333% { fill:#26a641; } 84.0% { fill:#006d32; } 100% { fill:#006d32; } }
 .c49_5 { animation:kc49_5 7.5s linear infinite; }
@@ -95,20 +95,22 @@
 .c51_5 { animation:kc51_5 7.5s linear infinite; }
 @keyframes kc52_2 { 0.0% { fill:#39d353; } 63.95% { fill:#39d353; } 64.0% { fill:#b7ffd0; } 65.333% { fill:#8affc1; } 69.333% { fill:#39d353; } 77.333% { fill:#26a641; } 92.0% { fill:#006d32; } 100% { fill:#006d32; } }
 .c52_2 { animation:kc52_2 7.5s linear infinite; }
-@keyframes kc52_3 { 0.0% { fill:#39d353; } 62.617000000000004% { fill:#39d353; } 62.667% { fill:#b7ffd0; } 64.0% { fill:#8affc1; } 68.0% { fill:#39d353; } 76.0% { fill:#26a641; } 90.667% { fill:#006d32; } 100% { fill:#006d32; } }
+@keyframes kc52_3 { 0.0% { fill:#006d32; } 62.617000000000004% { fill:#006d32; } 62.667% { fill:#b7ffd0; } 64.0% { fill:#8affc1; } 68.0% { fill:#39d353; } 76.0% { fill:#26a641; } 90.667% { fill:#006d32; } 100% { fill:#006d32; } }
 .c52_3 { animation:kc52_3 7.5s linear infinite; }
 @keyframes kc52_4 { 0.0% { fill:#161b22; } 61.283% { fill:#161b22; } 61.333% { fill:#b7ffd0; } 62.667% { fill:#8affc1; } 66.667% { fill:#39d353; } 74.667% { fill:#26a641; } 89.333% { fill:#006d32; } 100% { fill:#006d32; } }
 .c52_4 { animation:kc52_4 7.5s linear infinite; }
-@keyframes kc52_5 { 0.0% { fill:#161b22; } 59.95% { fill:#161b22; } 60.0% { fill:#b7ffd0; } 61.333% { fill:#8affc1; } 65.333% { fill:#39d353; } 73.333% { fill:#26a641; } 88.0% { fill:#006d32; } 100% { fill:#006d32; } }
+@keyframes kc52_5 { 0.0% { fill:#39d353; } 59.95% { fill:#39d353; } 60.0% { fill:#b7ffd0; } 61.333% { fill:#8affc1; } 65.333% { fill:#39d353; } 73.333% { fill:#26a641; } 88.0% { fill:#006d32; } 100% { fill:#006d32; } }
 .c52_5 { animation:kc52_5 7.5s linear infinite; }
 @keyframes m1 { 0% { opacity:0; } 0.0% { opacity:1; } 54.667% { opacity:0; } 100% { opacity:0; } }
 .m1 { animation:m1 7.5s steps(1,end) infinite; }
-@keyframes m2 { 0% { opacity:0; } 54.667% { opacity:1; } 62.667% { opacity:0; } 100% { opacity:0; } }
+@keyframes m2 { 0% { opacity:0; } 54.667% { opacity:1; } 60.0% { opacity:0; } 100% { opacity:0; } }
 .m2 { animation:m2 7.5s steps(1,end) infinite; }
-@keyframes m3 { 0% { opacity:0; } 62.667% { opacity:1; } 64.0% { opacity:0; } 100% { opacity:0; } }
+@keyframes m3 { 0% { opacity:0; } 60.0% { opacity:1; } 62.667% { opacity:0; } 100% { opacity:0; } }
 .m3 { animation:m3 7.5s steps(1,end) infinite; }
-@keyframes m4 { 0% { opacity:0; } 64.0% { opacity:1; } 100% { opacity:1; } }
+@keyframes m4 { 0% { opacity:0; } 62.667% { opacity:1; } 64.0% { opacity:0; } 100% { opacity:0; } }
 .m4 { animation:m4 7.5s steps(1,end) infinite; }
+@keyframes m5 { 0% { opacity:0; } 64.0% { opacity:1; } 100% { opacity:1; } }
+.m5 { animation:m5 7.5s steps(1,end) infinite; }
   </style>
   <rect x="1" y="1" width="769" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
     <rect class="c0_0" x="16" y="26" width="11" height="11" rx="2.5" fill="#161b22"/>
@@ -474,9 +476,9 @@
   <rect class="c52_0" x="744" y="26" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c52_1" x="744" y="40" width="11" height="11" rx="2.5" fill="#161b22"/>
   <rect class="c52_2" x="744" y="54" width="11" height="11" rx="2.5" fill="#39d353"/>
-  <rect class="c52_3" x="744" y="68" width="11" height="11" rx="2.5" fill="#39d353"/>
+  <rect class="c52_3" x="744" y="68" width="11" height="11" rx="2.5" fill="#006d32"/>
   <rect class="c52_4" x="744" y="82" width="11" height="11" rx="2.5" fill="#161b22"/>
-  <rect class="c52_5" x="744" y="96" width="11" height="11" rx="2.5" fill="#161b22"/>
+  <rect class="c52_5" x="744" y="96" width="11" height="11" rx="2.5" fill="#39d353"/>
   <text class="lab" x="16" y="14">oct</text>
   <text class="lab" x="86" y="14">nov</text>
   <text class="lab" x="156" y="14">dec</text>
@@ -497,9 +499,10 @@
   <rect x="679" y="132" width="11" height="11" rx="2.5" fill="#39d353"/>
   <text class="lab" x="701" y="141">more</text>
   <text class="lab" x="16" y="141">$ commits eaten:</text>
-  <text class="cnt m1" opacity="0" x="118" y="141">18/43</text>
-  <text class="cnt m2" opacity="0" x="118" y="141">27/43</text>
-  <text class="cnt m3" opacity="0" x="118" y="141">28/43</text>
-  <text class="cnt m4" opacity="0" x="118" y="141">43/43</text>
+  <text class="cnt m1" opacity="0" x="118" y="141">18/46</text>
+  <text class="cnt m2" opacity="0" x="118" y="141">27/46</text>
+  <text class="cnt m3" opacity="0" x="118" y="141">30/46</text>
+  <text class="cnt m4" opacity="0" x="118" y="141">31/46</text>
+  <text class="cnt m5" opacity="0" x="118" y="141">46/46</text>
   <rect x="1" y="1" width="769" height="149" rx="12" fill="none" stroke="#30363d"/>
 </svg>
