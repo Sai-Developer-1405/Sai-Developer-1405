@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=700&size=42&duration=2800&pause=900&color=22D3EE&background=0B1220&center=true&vCenter=true&width=1100&height=130&lines=SAI%20SRINIVAS%20PATIBANDLA;SOFTWARE%20DEVELOPER;FULL-STACK%20%7C%20BACKEND%20%7C%20AI%2FML" width="96%" alt="Animated Sai Srinivas Patibandla profile banner"/>
+<img src="./assets/profile-dashboard.svg" width="96%" alt="Sai Srinivas Patibandla developer dashboard profile graphic"/>
 
 <p align="center"><strong>Building real projects across modern stacks</strong></p>
 
@@ -34,21 +34,26 @@
 
 <table align="center" width="100%">
 <tr>
-<td width="70%" align="center" valign="middle">
-  <a href="https://github.com/rowkav09/GitHub-profile-stats">
-    <img src="https://ghstats.dev/api/card?username=Sai-Developer-1405&theme=midnight&show_icons=true&show_ring=true&hide_border=false&size=default&custom_title=Sai%20Srinivas%20Patibandla%27s%20GitHub%20Stats" width="100%" alt="Live GitHub statistics"/>
-  </a>
+<td width="62%" align="center" valign="middle">
+  <img src="./assets/github-stats.svg" width="100%" alt="Live GitHub telemetry dashboard"/>
+</td>
+<td width="38%" align="center" valign="middle">
+  <img src="./assets/daily-signal.svg" width="100%" alt="Daily developer signal"/>
 </td>
 </tr>
 </table>
 
 ### 🐍 Contribution Snake
 
+<p align="center"><sub>Contribution activity, rendered as a moving code trail.</sub></p>
+
 <p align="center">
   <img src="./assets/snake.svg" width="100%" alt="Animated GitHub contribution snake board"/>
 </p>
 
 ### 🕯️ Contribution Candles
+
+<p align="center"><sub>Year and month activity, visualized as contribution candles.</sub></p>
 
 <table align="center" width="100%">
 <tr>
