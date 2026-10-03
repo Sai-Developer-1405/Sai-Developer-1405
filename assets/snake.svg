@@ -527,11 +527,11 @@
   <rect x="679" y="132" width="11" height="11" rx="2.5" fill="#39d353"/>
   <text class="lab" x="701" y="141">more</text>
   <text class="lab" x="16" y="141">$ commits eaten:</text>
-  <text class="cnt m1" opacity="0" x="118" y="141">18/51</text>
-  <text class="cnt m2" opacity="0" x="118" y="141">27/51</text>
-  <text class="cnt m3" opacity="0" x="118" y="141">31/51</text>
-  <text class="cnt m4" opacity="0" x="118" y="141">32/51</text>
-  <text class="cnt m5" opacity="0" x="118" y="141">47/51</text>
-  <text class="cnt m6" opacity="0" x="118" y="141">51/51</text>
+  <text class="cnt m1" opacity="0" x="118" y="141">18/52</text>
+  <text class="cnt m2" opacity="0" x="118" y="141">27/52</text>
+  <text class="cnt m3" opacity="0" x="118" y="141">31/52</text>
+  <text class="cnt m4" opacity="0" x="118" y="141">32/52</text>
+  <text class="cnt m5" opacity="0" x="118" y="141">47/52</text>
+  <text class="cnt m6" opacity="0" x="118" y="141">52/52</text>
   <rect x="1" y="1" width="769" height="149" rx="12" fill="none" stroke="#30363d"/>
 </svg>
