@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".55" stop-color="#101827"/><stop offset="1" stop-color="#07131A"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="430" rx="28" fill="url(#bg)"/>
+<g opacity=".12" stroke="#94A3B8"><path d="M0 70H1400M0 140H1400M0 210H1400M0 280H1400M0 350H1400"/><path d="M100 0V430M220 0V430M340 0V430M460 0V430M580 0V430M700 0V430M820 0V430M940 0V430M1060 0V430M1180 0V430M1300 0V430"/></g>
+<rect x="48" y="42" width="1304" height="346" rx="22" fill="#050912" stroke="#263449" stroke-width="2"/>
+<circle cx="82" cy="76" r="7" fill="#EF4444"/><circle cx="106" cy="76" r="7" fill="#F59E0B"/><circle cx="130" cy="76" r="7" fill="#22C55E"/>
+<text x="160" y="83" fill="#64748B" font-family="monospace" font-size="17">SAI@GITHUB • ~/profile • main</text>
+<text x="92" y="143" fill="#22D3EE" font-family="monospace" font-size="18">$ whoami</text>
+<text x="92" y="202" fill="#F8FAFC" font-family="monospace" font-size="54" font-weight="700">SAI SRINIVAS PATIBANDLA</text>
+<text x="94" y="240" fill="#94A3B8" font-family="monospace" font-size="20">Software Developer  /  Full-Stack  /  Backend  /  AI &amp; ML</text>
+<text x="92" y="286" fill="#34D399" font-family="monospace" font-size="18">$ status --current</text>
+<rect x="92" y="305" width="145" height="38" rx="19" fill="#0B2B22" stroke="#34D399"/><circle cx="113" cy="324" r="6" fill="#34D399" filter="url(#g)"/><text x="128" y="331" fill="#A7F3D0" font-family="monospace" font-size="15">BUILDING</text>
+<rect x="251" y="305" width="175" height="38" rx="19" fill="#0B2030" stroke="#22D3EE"/><text x="273" y="331" fill="#A5F3FC" font-family="monospace" font-size="15">OPEN TO BUILD</text>
+<rect x="440" y="305" width="176" height="38" rx="19" fill="#17152C" stroke="#818CF8"/><text x="462" y="331" fill="#C7D2FE" font-family="monospace" font-size="15">AI • CLOUD • WEB</text>
+<path d="M1070 120h170l-95 80h170" fill="none" stroke="url(#line)" stroke-width="3" opacity=".85"/>
+<path d="M1100 220h110l-60 52h115" fill="none" stroke="#22D3EE" stroke-width="2" opacity=".55"/>
+<circle cx="1190" cy="120" r="4" fill="#22D3EE"/><circle cx="1240" cy="200" r="4" fill="#818CF8"/><circle cx="1320" cy="300" r="4" fill="#34D399"/>
+<text x="1090" y="350" fill="#475569" font-family="monospace" font-size="14">SYSTEM ONLINE • CODE • DEBUG • SHIP</text>
+</svg>
