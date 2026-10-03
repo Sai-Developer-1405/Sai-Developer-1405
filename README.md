@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/profile-dashboard.svg" width="96%" alt="Sai Srinivas Patibandla developer dashboard profile graphic"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=800&size=46&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=1100&height=100&lines=SAI%20SRINIVAS%20PATIBANDLA;S+%C2%B7+S+%C2%B7+P;SAI%20SRINIVAS%20PATIBANDLA%20%E2%9C%A8" width="96%" alt="Animated SAI SRINIVAS PATIBANDLA name"/>
 
-<p align="center"><strong>Building real projects across modern stacks</strong></p>
+<p align="center"><strong>⚡ Building real projects · 🧠 AI/ML · 🛠️ Full-Stack · ☁️ Backend & Cloud</strong></p>
 
 <table align="center">
 <tr>
