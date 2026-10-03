@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">SAI SRINIVAS PATIBANDLA animated developer profile</title>
+  <desc id="desc">Animated neon cyber terminal header for Sai Srinivas Patibandla</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="45%" stop-color="#0A1020"/>
+      <stop offset="100%" stop-color="#02131A"/>
+    </linearGradient>
+
+    <linearGradient id="nameGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#60A5FA;#A78BFA;#34D399;#22D3EE" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#34D399;#22D3EE;#60A5FA;#A78BFA" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#34D399">
+        <animate attributeName="stop-color" values="#34D399;#22D3EE;#60A5FA;#A78BFA;#34D399" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="20%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity=".95"/>
+      <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-120%;100%;-120%" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-20%;200%;-20%" dur="3.6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity=".26"/>
+      <stop offset="65%" stop-color="#7C3AED" stop-opacity=".08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse">
+      <path d="M70 0H0V70" fill="none" stroke="#334155" stroke-opacity=".18" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.4" fill="#38BDF8" opacity=".22"/>
+    </pattern>
+
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency=".02" numOctaves="2" seed="9">
+        <animate attributeName="baseFrequency" values=".02;.028;.02" dur="4s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feColorMatrix values="0 0 0 0 0.15  0 0 0 0 0.7  0 0 0 0 1  0 0 0 .18 0"/>
+    </filter>
+
+    <clipPath id="nameClip">
+      <rect x="100" y="130" width="1200" height="100" rx="4"/>
+    </clipPath>
+
+    <mask id="scanMask">
+      <rect width="1400" height="420" fill="white"/>
+      <rect x="-500" y="0" width="260" height="420" fill="black">
+        <animate attributeName="x" values="-500;1450;-500" dur="4.2s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- background -->
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="22" y="22" width="1356" height="376" rx="22" fill="url(#grid)"/>
+  <rect x="22" y="22" width="1356" height="376" rx="22" fill="none" stroke="#1E293B" stroke-width="2"/>
+
+  <!-- ambient neon clouds -->
+  <ellipse cx="245" cy="182" rx="290" ry="170" fill="#22D3EE" opacity=".075" filter="url(#softGlow)">
+    <animate attributeName="cx" values="245;1135;245" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="182;245;182" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="1120" cy="250" rx="260" ry="150" fill="#8B5CF6" opacity=".07" filter="url(#softGlow)">
+    <animate attributeName="cx" values="1120;320;1120" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- micro particles -->
+  <g fill="#67E8F9" opacity=".65">
+    <circle cx="92" cy="112" r="2"><animate attributeName="cy" values="112;88;112" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1315" cy="126" r="2"><animate attributeName="cy" values="126;98;126" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1188" cy="74" r="1.7"><animate attributeName="cy" values="74;101;74" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="206" cy="300" r="1.8"><animate attributeName="cy" values="300;278;300" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1242" cy="320" r="2"><animate attributeName="cy" values="320;291;320" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="356" cy="90" r="1.5"><animate attributeName="opacity" values=".2;.9;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1045" cy="330" r="1.5"><animate attributeName="opacity" values=".15;.85;.15" dur="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- top chrome -->
+  <g font-family="monospace">
+    <circle cx="58" cy="58" r="7" fill="#EF4444"/>
+    <circle cx="82" cy="58" r="7" fill="#F59E0B"/>
+    <circle cx="106" cy="58" r="7" fill="#22C55E"/>
+    <text x="132" y="64" fill="#64748B" font-size="16" letter-spacing="3">SAI@GITHUB / PROFILE / MAIN</text>
+    <text x="1240" y="64" fill="#334155" font-size="12" text-anchor="end">BUILD 2026.10</text>
+    <circle cx="1318" cy="59" r="5" fill="#34D399" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;.18;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- orbital frame -->
+  <g fill="none" opacity=".65">
+    <ellipse cx="700" cy="182" rx="620" ry="118" stroke="url(#nameGradient)" stroke-width="2" stroke-dasharray="12 20">
+      <animateTransform attributeName="transform" type="rotate" from="0 700 182" to="360 700 182" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="700" cy="182" rx="545" ry="88" stroke="#22D3EE" stroke-opacity=".32" stroke-width="1.5" stroke-dasharray="3 15">
+      <animateTransform attributeName="transform" type="rotate" from="360 700 182" to="0 700 182" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- orbital nodes -->
+  <g fill="#22D3EE" filter="url(#glow)">
+    <circle cx="80" cy="182" r="5"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="1320" cy="182" r="5"><animate attributeName="opacity" values=".25;1;.25" dur="2s" begin=".7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- command prompt -->
+  <g font-family="monospace">
+    <text x="92" y="112" fill="#22D3EE" font-size="18">$</text>
+    <text x="112" y="112" fill="#94A3B8" font-size="18">identity --render</text>
+    <rect x="286" y="96" width="11" height="22" rx="2" fill="#34D399">
+      <animate attributeName="opacity" values="1;0;1" dur=".75s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- NAME -->
+  <g clip-path="url(#nameClip)" font-family="monospace" font-weight="800" font-size="61" text-anchor="middle" letter-spacing="1">
+    <!-- chromatic glitches -->
+    <text x="700" y="192" fill="#FF2E88" opacity=".42">
+      SAI SRINIVAS PATIBANDLA
+      <animate attributeName="x" values="700;692;708;700;700" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="192;188;195;192;192" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".25;.65;.18;.42;.25" dur="2.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="700" y="192" fill="#00E5FF" opacity=".42">
+      SAI SRINIVAS PATIBANDLA
+      <animate attributeName="x" values="700;709;694;700;700" dur="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="192;196;189;192;192" dur="2.1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".22;.62;.16;.42;.22" dur="2.1s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- main name -->
+    <text x="700" y="192" fill="url(#nameGradient)" stroke="#E0F2FE" stroke-opacity=".15" stroke-width="1" filter="url(#glow)">
+      SAI SRINIVAS PATIBANDLA
+    </text>
+
+    <!-- shimmer sweep -->
+    <text x="700" y="192" fill="url(#shimmer)" opacity=".95">
+      SAI SRINIVAS PATIBANDLA
+    </text>
+
+    <!-- scan blocks -->
+    <rect x="90" y="142" width="1220" height="2" fill="#FFFFFF" opacity=".42" mask="url(#scanMask)"/>
+    <rect x="90" y="205" width="1220" height="2" fill="#22D3EE" opacity=".5" mask="url(#scanMask)"/>
+  </g>
+
+  <!-- animated signature line -->
+  <g transform="translate(315 225)">
+    <path d="M0 18 C80 -2 130 32 210 10 S370 2 440 18 S590 30 770 9" fill="none" stroke="#1E293B" stroke-width="4"/>
+    <path d="M0 18 C80 -2 130 32 210 10 S370 2 440 18 S590 30 770 9" fill="none" stroke="url(#nameGradient)" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 14">
+      <animate attributeName="stroke-dashoffset" values="0;-128" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- role line -->
+  <text x="700" y="292" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="18" letter-spacing="3">
+    FULL-STACK  •  BACKEND  •  AI / ML  •  CLOUD
+    <animate attributeName="fill" values="#CBD5E1;#67E8F9;#C4B5FD;#A7F3D0;#CBD5E1" dur="5.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- bottom terminal -->
+  <g font-family="monospace">
+    <text x="92" y="338" fill="#64748B" font-size="12">STATUS</text>
+    <rect x="151" y="322" width="86" height="28" rx="14" fill="#062A20" stroke="#34D399" stroke-opacity=".6"/>
+    <circle cx="169" cy="336" r="4" fill="#34D399"><animate attributeName="opacity" values="1;.3;1" dur="1.1s" repeatCount="indefinite"/></circle>
+    <text x="182" y="340" fill="#A7F3D0" font-size="11">BUILDING</text>
+
+    <text x="272" y="338" fill="#475569" font-size="12">PIPELINE</text>
+    <path d="M344 335h156" stroke="#1E293B" stroke-width="6" stroke-linecap="round"/>
+    <path d="M344 335h82" stroke="url(#nameGradient)" stroke-width="6" stroke-linecap="round" stroke-dasharray="1 10">
+      <animate attributeName="stroke-dashoffset" values="0;-60" dur=".9s" repeatCount="indefinite"/>
+    </path>
+
+    <text x="1200" y="338" fill="#475569" font-size="12">BUILD → DEBUG → SHIP</text>
+    <text x="1308" y="338" fill="#34D399" font-size="12" text-anchor="end">READY</text>
+  </g>
+
+  <!-- subtle noise layer -->
+  <rect x="22" y="22" width="1356" height="376" rx="22" filter="url(#noise)" opacity=".08"/>
+</svg>
