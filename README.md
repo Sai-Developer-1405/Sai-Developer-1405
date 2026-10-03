@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="./assets/name-scroller.gif" width="96%" alt="Animated SAI SRINIVAS PATIBANDLA technology banner"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains%20Mono&weight=700&size=42&duration=2800&pause=900&color=22D3EE&background=0B1220&center=true&vCenter=true&width=1100&height=130&lines=SAI%20SRINIVAS%20PATIBANDLA;SOFTWARE%20DEVELOPER;FULL-STACK%20%7C%20BACKEND%20%7C%20AI%2FML" width="96%" alt="Animated Sai Srinivas Patibandla profile banner"/>
 
 <p align="center"><strong>Building real projects across modern stacks</strong></p>
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://www.linkedin.com/in/sai-srinivas39847a4b" title="LinkedIn"><img src="./assets/linkedin.png" width="52" height="52" alt="LinkedIn"/><br/><sub><b>LinkedIn</b></sub></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/sai-srinivas39847a4b" title="LinkedIn"><img src="./assets/linkedin.png" width="52" height="52" alt="LinkedIn"/></a><br/><sub><b>LinkedIn</b></sub></td>
 <td width="18"></td>
-<td align="center"><a href="https://github.com/Sai-Developer-1405" title="GitHub"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="52" height="52" alt="GitHub"/><br/><sub><b>GitHub</b></sub></a></td>
+<td align="center"><a href="https://github.com/Sai-Developer-1405" title="GitHub"><img src="https://cdn.simpleicons.org/github/F0F6FC" width="52" height="52" alt="GitHub"/></a><br/><sub><b>GitHub</b></sub></td>
 <td width="18"></td>
-<td align="center"><a href="mailto:ping2saas145@gmail.com" title="Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"/><br/><sub><b>Gmail</b></sub></a></td>
+<td align="center"><a href="mailto:ping2saas145@gmail.com" title="Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="52" height="52" alt="Gmail"/></a><br/><sub><b>Gmail</b></sub></td>
 <td width="18"></td>
-<td align="center"><a href="https://www.geeksforgeeks.org/profile/saideveloper145" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="52" height="52" alt="GeeksforGeeks"/><br/><sub><b>GeeksforGeeks</b></sub></a></td>
+<td align="center"><a href="https://www.geeksforgeeks.org/profile/saideveloper145" title="GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="52" height="52" alt="GeeksforGeeks"/></a><br/><sub><b>GeeksforGeeks</b></sub></td>
 <td width="18"></td>
-<td align="center"><a href="https://leetcode.com/u/CodeKing666/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode"/><br/><sub><b>LeetCode</b></sub></a></td>
+<td align="center"><a href="https://leetcode.com/u/CodeKing666/" title="LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52" height="52" alt="LeetCode"/></a><br/><sub><b>LeetCode</b></sub></td>
 <td width="18"></td>
-<td align="center"><a href="https://www.hackerrank.com/profile/saidev15" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="52" height="52" alt="HackerRank"/><br/><sub><b>HackerRank</b></sub></a></td>
+<td align="center"><a href="https://www.hackerrank.com/profile/saidev15" title="HackerRank"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="52" height="52" alt="HackerRank"/></a><br/><sub><b>HackerRank</b></sub></td>
 </tr>
 </table>
 
