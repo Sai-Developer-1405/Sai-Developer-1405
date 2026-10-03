@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:06B6D4,50:7C3AED,100:22C55E&height=220&section=header&text=SAI%20SRINIVAS%20PATIBANDLA&fontSize=52&fontColor=FFFFFF&fontFamily=Orbitron&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20BACKEND%20%E2%80%A2%20AI%20%2F%20ML&descSize=18&descAlignY=76" width="96%" alt="Animated SAI SRINIVAS PATIBANDLA profile header"/>
+<img src="./assets/animated-name.svg" width="96%" alt="Animated neon SAI SRINIVAS PATIBANDLA profile header"/>
 
 <p align="center"><strong>⚡ Building real projects · 🧠 AI/ML · 🛠️ Full-Stack · ☁️ Backend & Cloud</strong></p>
 
