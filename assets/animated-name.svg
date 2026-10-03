@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="52%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#03141A"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="28%" stop-color="#60A5FA"/>
+      <stop offset="55%" stop-color="#A78BFA"/>
+      <stop offset="78%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity=".9"/>
+      <stop offset="55%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-100%;0%;100%" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;100%;200%" dur="2.8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#334155" stroke-opacity=".20" stroke-width="1"/>
+    </pattern>
+    <clipPath id="nameClip">
+      <rect x="130" y="120" width="1140" height="86" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1400" height="360" rx="24" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1352" height="312" rx="18" fill="url(#grid)"/>
+  <rect x="24" y="24" width="1352" height="312" rx="18" fill="none" stroke="#1E293B" stroke-width="2"/>
+
+  <!-- animated ambient glow -->
+  <circle cx="240" cy="180" r="105" fill="#22D3EE" opacity=".08" filter="url(#soft)">
+    <animate attributeName="cx" values="240;1160;240" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="180;95;180" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- orbital rings -->
+  <g fill="none" stroke="url(#neon)" opacity=".55" filter="url(#glow)">
+    <ellipse cx="700" cy="172" rx="615" ry="105" stroke-width="2" stroke-dasharray="10 18">
+      <animateTransform attributeName="transform" type="rotate" from="0 700 172" to="360 700 172" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="700" cy="172" rx="545" ry="78" stroke-width="1.5" stroke-dasharray="4 14">
+      <animateTransform attributeName="transform" type="rotate" from="360 700 172" to="0 700 172" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- top terminal status -->
+  <text x="64" y="66" fill="#64748B" font-family="monospace" font-size="16" letter-spacing="3">
+    SAI@PROFILE // MAIN // LIVE
+  </text>
+  <circle cx="1320" cy="59" r="6" fill="#34D399" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;.25;1" dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1298" y="87" text-anchor="end" fill="#34D399" font-family="monospace" font-size="11">ONLINE</text>
+
+  <!-- name back-glitch -->
+  <g clip-path="url(#nameClip)" font-family="monospace" font-size="62" font-weight="700" text-anchor="middle">
+    <text x="704" y="184" fill="#FF3CAC" opacity=".55">
+      SAI SRINIVAS PATIBANDLA
+      <animate attributeName="x" values="704;695;708;704;704" dur="2.7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".35;.7;.25;.55;.35" dur="2.7s" repeatCount="indefinite"/>
+    </text>
+    <text x="696" y="184" fill="#00F5FF" opacity=".45">
+      SAI SRINIVAS PATIBANDLA
+      <animate attributeName="x" values="696;706;692;696;696" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".25;.6;.2;.45;.25" dur="2.2s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- main name -->
+    <text x="700" y="184" fill="url(#neon)" filter="url(#glow)">
+      SAI SRINIVAS PATIBANDLA
+    </text>
+
+    <!-- moving highlight sweep -->
+    <text x="700" y="184" fill="url(#shimmer)" opacity=".9">
+      SAI SRINIVAS PATIBANDLA
+    </text>
+  </g>
+
+  <!-- scan line -->
+  <rect x="120" y="112" width="1160" height="3" fill="#22D3EE" opacity=".35" filter="url(#glow)">
+    <animate attributeName="y" values="112;208;112" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- animated cursor -->
+  <rect x="129" y="215" width="13" height="27" rx="2" fill="#34D399">
+    <animate attributeName="opacity" values="1;0;1" dur=".85s" repeatCount="indefinite"/>
+  </rect>
+  <text x="153" y="237" fill="#94A3B8" font-family="monospace" font-size="17">
+    whoami :: software developer
+  </text>
+
+  <!-- role line -->
+  <text x="700" y="285" text-anchor="middle" fill="#E2E8F0" font-family="monospace" font-size="18" letter-spacing="2">
+    FULL-STACK  •  BACKEND  •  AI / ML  •  CLOUD
+    <animate attributeName="fill" values="#E2E8F0;#67E8F9;#C4B5FD;#A7F3D0;#E2E8F0" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- bottom telemetry -->
+  <g font-family="monospace" font-size="11" fill="#64748B">
+    <text x="64" y="315">BUILD</text>
+    <text x="170" y="315">DEBUG</text>
+    <text x="276" y="315">REFACTOR</text>
+    <text x="418" y="315">SHIP</text>
+    <path d="M510 311H1180" stroke="#1E293B" stroke-width="2"/>
+    <path d="M510 311H720" stroke="url(#neon)" stroke-width="2" stroke-dasharray="1 14">
+      <animate attributeName="stroke-dashoffset" values="0;-120" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <text x="1215" y="315">v3.0</text>
+    <text x="1328" y="315" text-anchor="end" fill="#34D399">READY</text>
+  </g>
+</svg>
